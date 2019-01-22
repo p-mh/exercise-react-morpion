@@ -1,0 +1,12 @@
+.cell {
+  flex: 1 1 33%;
+  padding: 16% 0;
+  box-sizing: border-box;
+  height: 50px;
+  border: #fff 1px solid;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3em;
+}
